@@ -1,2 +1,1 @@
-# Freecodcamp-Product-Landing-Page
-Freecodcamp-Product-Landing-Page
+Product Landing Page
